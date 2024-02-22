@@ -1,0 +1,22 @@
+{
+  "name": "talknigga",
+  "version": "0.0.1",
+  "description": "",
+  "main": "1.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alibeknakhimov/saynigga.git"
+  },
+  "author": "Borealis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alibeknakhimov/saynigga/issues"
+  },
+  "homepage": "https://github.com/alibeknakhimov/saynigga#readme",
+  "dependencies": {
+    "@picovoice/porcupine-node": "^3.0.2",
+    "@picovoice/pvrecorder-node": "^1.2.2",
+    "say": "^0.16.0"
+  }
+}
